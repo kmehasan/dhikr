@@ -1,11 +1,18 @@
 {
   "schemaVersion": 1,
-  "latestVersion": 0,
+  "latestVersion": 1,
   "minimumSupportedVersion": 0,
   "snapshot": {
-    "version": 0,
-    "url": "",
-    "sha256": ""
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/kmehasan/dhikr/main/dhikr/snapshots/1.json",
+    "sha256": "c9dcbda072c677f9556ccf68f52441e726dca6290046bf56b3db5e36a03a4272"
   },
-  "deltas": []
+  "deltas": [
+    {
+      "fromVersion": 0,
+      "toVersion": 1,
+      "url": "https://raw.githubusercontent.com/kmehasan/dhikr/main/dhikr/deltas/0_1.json",
+      "sha256": "50e5c7b390028d8cd771585f306bd3a043b51daa7d72fafd53d2c30f3b7b46cd"
+    }
+  ]
 }

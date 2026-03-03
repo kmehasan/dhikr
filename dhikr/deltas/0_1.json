@@ -1,6 +1,8 @@
 {
-  "version": 1,
-  "items": [
+  "schemaVersion": 1,
+  "fromVersion": 0,
+  "toVersion": 1,
+  "upsert": [
     {
       "id": 1,
       "arabicText": "سُبْحَانَ اللَّهِ",
@@ -457,5 +459,6 @@
         "gratitude"
       ]
     }
-  ]
+  ],
+  "deleteIds": []
 }
